@@ -26,9 +26,7 @@ no build step needed, just image URLs pointing at their API. -->
 $ whoami
 ```
 
-Cybersecurity student (B.S. Cybersecurity, 2028) who competes on **Cyberstorm**, my university's security team — mostly NECCDC and CTFs. I recently defended a Linux fleet at NECCDC regionals in Boston as the Ansible/automation operator on a two-person blue team.
-
-I like taking standard CLI security tools and giving them unique, stylized graphical interfaces — think Fallout- and Final Fantasy-themed GUI wrappers for Nmap and Gobuster.
+Cybersecurity student (B.S. Cybersecurity, 2028). Obsessed with cyber.
 
 - 🐧 Linux system hardening & security configuration
 - 🏢 Active Directory security & attack techniques
