@@ -2,7 +2,7 @@
 no build step needed, just image URLs pointing at their API. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2596CD&height=200&section=header&text=Ayaan%20Bhatti&fontSize=42&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Automation&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2596CD&height=200&section=header&text=Ayaan%20B&fontSize=42&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20Automation&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
