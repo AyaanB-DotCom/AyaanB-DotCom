@@ -22,7 +22,7 @@ no build step needed, just image URLs pointing at their API. -->
 $ whoami
 ```
 
-Cybersecurity student (B.S. Cybersecurity, 2028). Obsessed with cyber.
+Cybersecurity student. Obsessed with cyber.
 
 - 🐧 Linux system hardening & security configuration
 - 🏢 Active Directory security & attack techniques
