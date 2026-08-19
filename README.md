@@ -9,9 +9,7 @@ no build step needed, just image URLs pointing at their API. -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Penetration+Tester;Linux+%26+Active+Directory+Security;CTF+Player+%40+Cyberstorm;Automation+%2B+Blue+Team+Ops;Always+Learning%2C+Always+Hacking&font=Fira%20Code&center=true&width=600&height=50&color=00FF00&vCenter=true&size=22" />
 </p>
 
-  <a href="https://AyaanBhatti-dotcom.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
